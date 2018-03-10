@@ -1,2 +1,2 @@
 # Project
-仿美团首页 
+HTML+CSS+js实现的仿美团网首页。
